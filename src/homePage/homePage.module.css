@@ -1,0 +1,26 @@
+.input{
+  height:40px;
+  width:400px;
+  border-radius: 20px;
+  border-style: solid;
+    border-width: medium;
+    border-color: coral;
+    font-size: x-large;
+    font-family: cursive;
+}
+button{height: 45px;
+    width: 150px;
+    background: white;
+    border-radius: 5px;
+    color: coral;
+    /* border-block-color: red; */
+    border-color: coral;
+    border-style: solid;
+    font-size: medium;
+    font-family: fantasy;
+    margin-left: 6px;
+}
+.h1{
+  color: white;
+
+}
