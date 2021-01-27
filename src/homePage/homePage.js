@@ -13,7 +13,7 @@ let x=document.getElementById('one').value
 this.setState({submit:x})
 }
   render(){
-    //console.log(this.state.submit)vvvvdd;
+    //console.log(this.state.submit)vvvvddtest update;
     return(
       <div >
         <h1 className={Classes.h1}>Yadunanda's Weather App</h1>
