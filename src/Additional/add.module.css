@@ -1,4 +1,4 @@
-.output{
+.add{
   background: white;
     border-style: solid;
     margin: 20px 50px 0px 50px;
@@ -9,13 +9,6 @@
     border-right-color: blue;
     font-family: cursive;
 }
-
-.right{
-display:flex;
-
-    justify-content: space-between;
-}
-.left{
-  display:flex;
-    justify-content: space-between;
+img{
+  width: 200px;
 }
